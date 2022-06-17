@@ -1,4 +1,4 @@
-### Oi! Eu sou o Deyvid Santana 👋
+### Oii! Eu sou o Deyvid Santana 👋
 
 - 🔭 <strong>Cursando Analise e Desenvolvimento de Sistemas</strong>
 - 🌱 <strong>Estudando Java, Html, Css e JavaScript</strong>
