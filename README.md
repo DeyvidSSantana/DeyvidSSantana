@@ -3,6 +3,12 @@
 - 🔭 <strong>Cursando Análise e Desenvolvimento de Sistemas</strong>
 - 🌱 <strong>Estudando Java, Html, Css e JavaScript</strong>
 
+<div align="center">
+  <a href="https://github.com/DeyvidSSantana">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeyvidSSantana&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidSSantana&layout=compact&langs_count=7&theme=ocean_dark"/>
+    </div>
+
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Deyvid-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
