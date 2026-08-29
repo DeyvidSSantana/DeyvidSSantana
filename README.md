@@ -13,49 +13,30 @@
 ## 👨‍💻 Sobre mim
 
 - 💻 Desenvolvedor de Software
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - ☕ Desenvolvimento Back-end com **Java e Spring Boot**
 - 🌐 Desenvolvimento Web com **HTML, CSS e JavaScript**
-- 🗄️ Experiência com bancos de dados relacionais
-- 🔧 Interesse em arquitetura, APIs REST e desenvolvimento Full Stack
+- 🗄️ Experiência com **bancos de dados relacionais**
+- 🔧 Interesse em **arquitetura de software, APIs REST e desenvolvimento Full Stack**
 - 📚 Sempre estudando novas tecnologias e boas práticas
 
 ---
 
 ## 🚀 Tecnologias e ferramentas
 
-<div align="center">
-
-<img alt="Java" height="65" width="75"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-
-<img alt="Spring" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
-<img alt="JavaScript" height="50" width="60"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-<img alt="HTML5" height="50" width="60"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img alt="CSS3" height="50" width="60"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img alt="Bootstrap" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-<img alt="PostgreSQL" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-<img alt="Git" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img alt="GitHub" height="50" width="60"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-</div>
+<p align="center">
+<img alt="Java" title="Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img alt="Spring Boot" title="Spring Boot" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"><img alt="JavaScript" title="JavaScript" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img alt="HTML5" title="HTML5" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" title="CSS3" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img alt="Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><img alt="PostgreSQL" title="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img alt="Git" title="Git" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><img alt="GitHub" title="GitHub" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</p>
 
 ---
+
+## 🛠️ Stack principal
+
+<p align="center">
+<img alt="Java" title="Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img alt="Spring" title="Spring Boot" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"><img alt="Maven" title="Maven" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"><img alt="PostgreSQL" title="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img alt="Oracle" title="Oracle" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"><img alt="JavaScript" title="JavaScript" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img alt="HTML5" title="HTML5" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" title="CSS3" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img alt="Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><img alt="Git" title="Git" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
+
+
 
 ## 📊 GitHub Stats
 
