@@ -22,14 +22,6 @@
 
 ---
 
-## 🚀 Tecnologias e ferramentas
-
-<p align="center">
-<img alt="Java" title="Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img alt="Spring Boot" title="Spring Boot" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"><img alt="JavaScript" title="JavaScript" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img alt="HTML5" title="HTML5" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img alt="CSS3" title="CSS3" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img alt="Bootstrap" title="Bootstrap" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><img alt="PostgreSQL" title="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img alt="Git" title="Git" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><img alt="GitHub" title="GitHub" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</p>
-
----
-
 ## 🛠️ Stack principal
 
 <p align="center">
