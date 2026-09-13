@@ -81,7 +81,7 @@ Também gosto de transformar ideias em produtos reais, explorando arquitetura, a
 
 <div align="center">
 
-💻 Projetos pessoais, estudos e soluções desenvolvidas com foco em Java, Spring Boot e desenvolvimento Full Stack.
+💻 Desenvolvimento de aplicações, integrações e soluções Full Stack com foco no ecossistema Java e Spring Boot.
 
 </div>
 
