@@ -81,17 +81,9 @@ Também gosto de transformar ideias em produtos reais, explorando arquitetura, a
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=DeyvidSSantana&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-alt="Estatísticas GitHub">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidSSantana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-alt="Linguagens mais utilizadas">
+💻 Projetos pessoais, estudos e soluções desenvolvidas com foco em Java, Spring Boot e desenvolvimento Full Stack.
 
 </div>
-
-> As estatísticas representam apenas os repositórios públicos disponíveis no GitHub.
 
 ---
 
